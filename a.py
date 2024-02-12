@@ -1,0 +1,1 @@
+print('diksha*10')
